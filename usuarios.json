@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Rafael",
+      "email": "rafael@gmail.com",
+      "senha": "$2a$10$MR0291stgC.Nub9yIGzCue9O06bHIWdo1vWnRPBAsPgUKLDJLNC2."
+    },
+    {
+      "id": 2,
+      "nome": "jose",
+      "email": "jose@gmail.com",
+      "senha": "$2a$10$j7FKb9tnks0.9xePKCr6Yu4wixKRHI7QrM6rbU6M./LLPvrgYTAym"
+    }
+  ]
+}

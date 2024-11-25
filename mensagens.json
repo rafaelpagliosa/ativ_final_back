@@ -1,0 +1,86 @@
+{
+  "mensagens": [
+    {
+      "id": 1,
+      "tipo": "alegre",
+      "texto": "teste",
+      "destinatario": "teste",
+      "remetente": "teste",
+      "dataCriacao": "2024-11-24T23:17:10.959Z",
+      "supervisor": "etset"
+    },
+    {
+      "id": 2,
+      "tipo": "alegre",
+      "texto": "ola",
+      "destinatario": "ola",
+      "remetente": "ola",
+      "dataCriacao": "2024-11-24T23:28:47.928Z",
+      "supervisor": "ola"
+    },
+    {
+      "id": 3,
+      "tipo": "aviso",
+      "texto": "ola tudo bem",
+      "destinatario": "Rafael",
+      "remetente": "Teste",
+      "dataCriacao": "2024-11-24T23:36:19.650Z",
+      "supervisor": "teste"
+    },
+    {
+      "id": 4,
+      "tipo": "alegre",
+      "texto": "teste",
+      "destinatario": "teste",
+      "remetente": "teste",
+      "dataCriacao": "2024-11-24T23:50:07.914Z",
+      "supervisor": "Rafael"
+    },
+    {
+      "id": 5,
+      "tipo": "alegre",
+      "texto": "teste",
+      "destinatario": "teste",
+      "remetente": "Leonidas Marques",
+      "dataCriacao": "2024-11-24T23:50:09.986Z",
+      "supervisor": "Rafael",
+      "dataAtualizacao": "2024-11-25T00:04:14.252Z"
+    },
+    {
+      "id": 6,
+      "tipo": "aviso",
+      "texto": "afasfasf",
+      "destinatario": "fafasf",
+      "remetente": "rars",
+      "dataCriacao": "2024-11-24T23:50:30.235Z",
+      "supervisor": "Rafael"
+    },
+    {
+      "id": 7,
+      "tipo": "aviso",
+      "texto": "afasfasf",
+      "destinatario": "fafasf",
+      "remetente": "rars",
+      "dataCriacao": "2024-11-24T23:50:30.785Z",
+      "supervisor": "Rafael"
+    },
+    {
+      "id": 8,
+      "tipo": "aviso",
+      "texto": "afasfasf",
+      "destinatario": "fafasf",
+      "remetente": "rars",
+      "dataCriacao": "2024-11-24T23:50:31.378Z",
+      "supervisor": "Rafael"
+    },
+    {
+      "id": 9,
+      "tipo": "aviso",
+      "texto": "afasfasf",
+      "destinatario": "fafasf",
+      "remetente": "rars",
+      "dataCriacao": "2024-11-24T23:50:31.791Z",
+      "supervisor": "Rafael"
+    }
+  ]
+}
